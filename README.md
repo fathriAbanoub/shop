@@ -20,7 +20,7 @@ This project is a web application developed for PedroTech Shop, an online store 
 ## Installation
 1. Clone the repository:
    ```shell
-   git clone [repository_url]
+   git clone [(https://github.com/fathriAbanoub/shop.git)]
 Install dependencies:
 shell
 Copy code
